@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class cll{
+struct cll{
     public:
     int data;
     struct cll*next;
