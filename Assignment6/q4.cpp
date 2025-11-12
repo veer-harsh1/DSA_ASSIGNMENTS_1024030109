@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class dll{
+struct dll{
 public:
 int data;
 struct dll*next;
